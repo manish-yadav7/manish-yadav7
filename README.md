@@ -8,6 +8,7 @@
 
 <img align="right" height="350px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
 
+## About Me:
 - 💬 Ask me about **MERN, DSA, Graphic Design**
 - 📫 How to reach me **macc238474@gmail.com**
 -  💬 Ask me about anything, I am happy to help.
