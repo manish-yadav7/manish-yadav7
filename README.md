@@ -10,11 +10,10 @@
 
 <img align="right" height="350px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
 
-- 💬 Ask me about **MERN, DSA**
+- 💬 Ask me about **MERN, DSA, Graphic Design**
 
 - 📫 How to reach me **macc238474@gmail.com**
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-yadav7&show_icons=true&locale=en&layout=compact" alt="manish-yadav7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-yadav7&show_icons=true&locale=en" alt="manish-yadav7" /></p>
 
