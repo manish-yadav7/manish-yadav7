@@ -25,9 +25,10 @@
 
 
 ## Some Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-yadav7-27&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-yadav7&show_icons=true&locale=en&layout=compact" alt="manish-yadav7" /></p>
 
-![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-yadav7-27&show_icons=true&theme=prussian)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-yadav7&show_icons=true&locale=en" alt="manish-yadav7" /></p>
+
 
 
 
