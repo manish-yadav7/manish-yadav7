@@ -25,6 +25,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaBhalla-27&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-yadav7&show_icons=true&locale=en&layout=compact" alt="manish-yadav7" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-yadav7&show_icons=true&locale=en" alt="manish-yadav7" /></p>
