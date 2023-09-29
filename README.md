@@ -3,16 +3,16 @@
 
 <img width="100%" alt="GIF" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" />
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-yadav7&label=Profile%20views&color=0e75b6&style=flat" alt="manish-yadav7" /> </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
 
 <img align="right" height="350px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
 
 - 💬 Ask me about **MERN, DSA, Graphic Design**
-
 - 📫 How to reach me **macc238474@gmail.com**
+-  💬 Ask me about anything, I am happy to help.
+-  😄 Pronouns: He/Him 
 
 
 <h3 align="left">Connect with me:</h3>
