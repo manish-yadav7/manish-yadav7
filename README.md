@@ -1,3 +1,6 @@
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Manish Yadav</h1>
+<h3 align="center">A passionate software developer from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-yadav7&label=Profile%20views&color=0e75b6&style=flat" alt="manish-yadav7" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
